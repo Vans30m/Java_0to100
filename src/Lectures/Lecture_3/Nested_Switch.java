@@ -14,7 +14,7 @@ public class Nested_Switch {
         System.out.print("Input the department : ");
         String dep = in.next();
 
-        
+
         switch (id) {
             case 1:
                 System.out.println("Vansh Thakur");
