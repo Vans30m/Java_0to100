@@ -18,7 +18,7 @@ public class Nested_Switch {
         switch (id) {
             case 1:
                 System.out.println("Vansh Thakur");
-                continue ;
+                break;
             case 2:
                 System.out.println("Tanishq Thakur");
                 break;
