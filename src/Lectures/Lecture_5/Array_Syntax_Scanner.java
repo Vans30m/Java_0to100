@@ -14,7 +14,7 @@ public class Array_Syntax_Scanner {
             arr[i] = in.nextInt();
         }
 
-        for(int i=0;i<5;i++){
+        for(int i=0;i<size;i++){
             System.out.print((arr[i]+" "));
         }
     }
